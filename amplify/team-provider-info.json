@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-didja-dev-63743-authRole",
+            "UnauthRoleArn": "arn:aws:iam::606689502321:role/amplify-didja-dev-63743-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::606689502321:role/amplify-didja-dev-63743-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-didja-dev-63743-deployment",
+            "UnauthRoleName": "amplify-didja-dev-63743-unauthRole",
+            "StackName": "amplify-didja-dev-63743",
+            "StackId": "arn:aws:cloudformation:us-west-2:606689502321:stack/amplify-didja-dev-63743/7b27b780-6687-11ea-888b-06fd04ccb534",
+            "AmplifyAppId": "ddh7uidvw2v9j"
+        }
+    }
+}
